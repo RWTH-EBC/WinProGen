@@ -1,4 +1,4 @@
-![E.ON EBC RWTH Aachen University](./documentation/_static/EBC_Logo.png)
+![E.ON EBC RWTH Aachen University](./icons/logo_square.png)
 
 
 # WinProGen
