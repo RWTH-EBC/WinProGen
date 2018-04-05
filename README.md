@@ -1,9 +1,6 @@
 ![E.ON EBC RWTH Aachen University](./documentation/_static/EBC_Logo.png)
 
 
-[![Build Status](https://travis-ci.com/RWTH-EBC/pyCity.svg?token=ssfy4ps1Qm5kvs5yAxfm&branch=master)](https://travis-ci.com/RWTH-EBC/pyCity.svg?token=ssfy4ps1Qm5kvs5yAxfm&branch=master)
-
-
 # WinProGen
 
 Python package for data handling and scenario generation of city districts.
@@ -12,7 +9,7 @@ Python package for data handling and scenario generation of city districts.
 
 1. Clone repository: `git clone git@github.com:RWTH-EBC/WinProGen.git` (for SSH usage)
 Alternatively: Clone via https: `git clone https://github.com/RWTH-EBC/WinProGen.git`
-2. Open an issue at [https://github.com/RWTH-EBC/pyCity/issues](https://github.com/RWTH-EBC/pyCity/issues)
+2. Open an issue at [https://github.com/RWTH-EBC/WinProGen/issues](https://github.com/RWTH-EBC/WinProGen/issues)
 3. Checkout development branch: `git checkout development` 
 4. Update local development branch (if necessary): `git pull origin development`
 5. Create your feature branch: `git checkout -b issueXY_explanation`
@@ -22,19 +19,13 @@ Alternatively: Clone via https: `git clone https://github.com/RWTH-EBC/WinProGen
 
 ## Installation
 
-pyCity requires WinPython 2.7 and the following Python packages:
+WinProGen requires WinPython 2.7 and the following Python packages:
 - pandas (0.22)
 - PyQT4
 
 
 ## Tutorial
 
-pyCity has a jupyter notebook tutorial script under pycity/examples/tutorials/... 
-To open the jupyter notebook, open a command/terminal window and change your directory to the directory, 
-where tutorial_pycity_calc_1.ipynb is stored. Then type 'jupyter notebook' (without '' signs) and press Enter.
-Jupyter notebook should open within your browser (such as Firefox). Click on one notebook to start.
-If your Pyhton path does not point at your Python installation, you have to
-open jupyter notebook directly, e.g. by looking for the jupyter.exe in your distribution.
 
 ## License
 
