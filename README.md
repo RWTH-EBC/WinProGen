@@ -3,7 +3,9 @@
 
 # WinProGen
 
-Python package for data handling and scenario generation of city districts.
+WinProGen – A Datadriven Window Status Profile Generator
+A Python-written software for the stochastic generation of windows state profiles
+based on Markov Chains and field test data
 
 ## Contributing
 
