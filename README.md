@@ -28,8 +28,8 @@ WinProGen requires WinPython 2.7 and the following Python packages:
 
 Find a Tutorial at https://github.com/RWTH-EBC/WinProGen/blob/master/README.pdf
 
-Read more about WinProGen at https://www.sciencedirect.com/science/article/pii/S0360132318301835
-and in the PhD Thesis ["Occupants’ behavior and its impact upon the energy performance of buildings = Auswirkung des Nutzerverhaltens auf die Energieeffizienz von Gebäuden, Davide Calì](https://publications.rwth-aachen.de/record/677868/files/677868.pdf)
+Read more about WinProGen in ["WinProGen: A Markov-Chain-based stochastic window status profile generator for the simulation of realistic energy performance in buildings"](https://www.sciencedirect.com/science/article/pii/S0360132318301835), 
+and in the PhD Thesis ["Occupants’ behavior and its impact upon the energy performance of buildings: Auswirkung des Nutzerverhaltens auf die Energieeffizienz von Gebäuden, Davide Calì](https://publications.rwth-aachen.de/record/677868/files/677868.pdf)
 
 ## License
 
