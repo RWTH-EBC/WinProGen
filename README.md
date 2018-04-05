@@ -8,11 +8,16 @@ WinProGen – A Datadriven Window Status Profile Generator.
 A Python-written software for the stochastic generation of windows state profiles
 based on Markov Chains and field test data
 
-*Easy to use*: Intuitive graphical user interface
-*Solid*: Markov Chain simulation models
-*Robust*: Monte Carlo Markov Chain mathematical validation
-*Datadriven*: > 155 Million windows’ states as input
-*Open*: Include your own field test into WinProGen
+<span style="color:blue">**Easy to use**: Intuitive graphical user interface
+  
+<span style="color:blue">**Solid**: Markov Chain simulation models
+  
+<span style="color:blue">**Robust**: Monte Carlo Markov Chain mathematical validation
+  
+<span style="color:blue">**Datadriven**: > 155 Million windows’ states as input
+  
+<span style="color:blue">**Open**: Include your own field test into WinProGen
+
 
 ## Contributing
 
