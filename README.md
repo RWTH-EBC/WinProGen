@@ -21,6 +21,8 @@ based on Markov Chains and field test data
   
 <span style="color:blue">**Open**: Include your own field test into WinProGen
 
+# WinProGen [WinProGen: A Markov-Chain-based stochastic window status profile generator for the simulation of realistic energy performance in buildings](https://authors.elsevier.com/a/1WqvU1HudMvuwB)
+
 
 ## Contributing
 
