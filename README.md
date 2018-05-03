@@ -4,7 +4,7 @@
 ![WinProGen](./icons/logo.png)
 
 
-# WinProGen (code publication date: 24.04.2018)
+# WinProGen
 
 WinProGen – A Datadriven Window Status Profile Generator.
 
